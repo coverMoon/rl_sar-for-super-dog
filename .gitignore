@@ -30,8 +30,6 @@ Thumbs.db
 # Runtime outputs and local debug files
 *.log
 *.csv
-core
-core.*
 
 # Local model artifacts placed during deployment/debug
 *.pt
